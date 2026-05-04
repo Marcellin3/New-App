@@ -1,0 +1,6 @@
+{
+  "name": "Gestion Budgétaire Mensuelle",
+  "description": "Une application mobile-first pour planifier votre budget, suivre vos dépenses et épargner, adaptée au contexte africain (CDF).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
